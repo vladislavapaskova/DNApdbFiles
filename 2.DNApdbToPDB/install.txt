@@ -1,0 +1,7 @@
+Vladislava Paskova
+
+—->follow instruction in the file x3dna_setup found in /x3DNA-v2.2/bin
+—-> put export x3dna and export path in .bashrc file in your home directory
+—-> edit bash_profile in home directory —> add the line source .bashrc
+—-> open a new window
+

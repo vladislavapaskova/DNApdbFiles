@@ -1,0 +1,17 @@
+Vladislava Paskova
+
+the command follow the following order
+python solve.py (path to a directory that contains all of the needed files,{.pdb, .fasta}) (name of DNA fiber) (path to output directory)
+
+python solve.py ./input/1D8G/ 1D8G ./output/
+python solve.py ./input/4X1A/ 4X1A ./output/
+python solve.py ./input/1ENN/ 1ENN ./output/
+python solve.py ./input/1SK5/ 1SK5 ./output/
+python solve.py ./input/1DPL/ 1DPL ./output/
+python solve.py ./input/4HIF/ 4HIF ./output/
+python solve.py ./input/4HIG/ 4HIG ./output/
+python solve.py ./input/3GGK/ 3GGK ./output/
+python solve.py ./input/3P4J/ 3P4J ./output/
+python solve.py ./input/4OCB/ 4OCB ./output/
+
+
