@@ -1,0 +1,7 @@
+1
+B-DNA
+2
+2
+./Input/1ENN.fasta.txt
+./Output/test7
+

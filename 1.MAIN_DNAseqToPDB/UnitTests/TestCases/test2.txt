@@ -1,0 +1,8 @@
+1
+hjkkjh
+567
+A-DNA
+1
+ATGTCGTG
+./Output/test2
+

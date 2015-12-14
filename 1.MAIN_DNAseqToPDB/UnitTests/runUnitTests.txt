@@ -1,0 +1,32 @@
+—DNA fiber type: from command line
+-DNA sequence: from command line
+
+python ../pipeline.py < ./TestCases/test1.txt
+python ../pipeline.py < ./TestCases/test2.txt
+python ../pipeline.py < ./TestCases/test3.txt
+
+
+-DNA fiber type: from pdb file
+-DNA sequence: from command line
+
+-pdb file does not contain DNA fiber type
+python ../pipeline.py < ./TestCases/test4.txt
+
+—invalid path to pdb file 
+python ../pipeline.py < ./TestCases/test5.txt
+
+-pdb file does contain DNA fiber type
+python ../pipeline.py < ./TestCases/test6.txt
+
+
+—DNA fiber type: from command line
+-DNA sequence: from fasta file
+python ../pipeline.py < ./TestCases/test7.txt
+
+
+—DNA fiber type: from command line
+-DNA sequence: from text file
+python ../pipeline.py < ./TestCases/test8.txt
+
+-checks for those special types of DNA fibers
+python ../pipeline.py < ./TestCases/test9.txt

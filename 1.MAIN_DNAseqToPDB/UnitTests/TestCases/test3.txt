@@ -1,0 +1,8 @@
+1
+B-DNA
+1
+atg
+hjk
+ATGTCGTG
+./Output/test3
+

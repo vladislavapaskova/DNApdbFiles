@@ -1,0 +1,8 @@
+2
+hjk
+./Input/4OCB.pdb
+B-DNA
+1
+ATGTCGTG
+./Output/test6
+

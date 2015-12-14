@@ -1,0 +1,7 @@
+2
+./Input/1ENN.pdb
+B-DNA
+1
+ATGTCGTG
+./Output/test4
+
